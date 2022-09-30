@@ -1,0 +1,802 @@
+2022-09-26 01:39:44 | [INFO]    | Discordia 2.9.2
+2022-09-26 01:39:44 | [INFO]    | Connecting to Discord...
+2022-09-26 01:39:44 | [INFO]    | Authenticated as Ink#3645
+2022-09-26 01:39:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-26 01:39:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 01:39:45 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 01:39:45 | [INFO]    | Shard 0 : Received READY
+2022-09-26 01:39:46 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/802914516542554153/commands
+2022-09-26 01:39:48 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/838198385210294273/commands
+2022-09-26 01:43:44 | [INFO]    | Discordia 2.9.2
+2022-09-26 01:43:44 | [INFO]    | Connecting to Discord...
+2022-09-26 01:43:45 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-26 01:43:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-26 01:43:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 01:43:45 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 01:43:45 | [INFO]    | Shard 0 : Received READY
+2022-09-26 01:46:28 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/interactions/1023742313777864765/aW50ZXJhY3Rpb246MTAyMzc0MjMxMzc3Nzg2NDc2NTp2RHlQTUtNc2ltOGFibTJGU0pMRHliREdsZzVqb0hPZW8yUlZEOWdnQkNvcnNwc2hCQWkwa2p5NzZQaGNwcTBLVlJVSE1aNnJEYkZDbXlqSVBCY0RlQWQyaFlSNHJEWGExVE5MV2VzSVVoa3AyWFNaazZnZnllblZnUGlrN2tzNA/callback
+2022-09-26 02:16:55 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 02:16:55 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 02:16:55 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 02:16:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 02:16:56 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 02:16:56 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 05:43:45 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 05:43:45 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 05:43:45 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 05:43:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 05:43:45 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 05:43:45 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 06:40:12 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 06:40:12 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 06:40:12 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 06:40:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 06:40:12 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 06:40:12 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 07:35:06 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 07:35:06 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 07:35:06 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 07:35:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 07:35:06 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 07:35:06 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 11:28:34 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 11:28:34 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 11:28:34 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 11:28:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 11:28:34 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 11:28:34 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 12:58:59 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1023911545798934538/aW50ZXJhY3Rpb246MTAyMzkxMTU0NTc5ODkzNDUzODpXY2RTZEVNT1Nna2N2bXZIWkhKSFVpMG5yVVVwazZvbzF3bzR6Q0NXYlFqbkpUWmdIZzVnZTFJZ1U5Nk5IUkhNcU50RWVuRUJVekFOZnFQM1BHcUx4VUdLQmpXTG50NkZ4SHlVUjZQQWNINm5hNFdScWNEVnp1UldRb3k2eWFNQw/callback
+2022-09-26 13:32:05 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 13:32:05 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 13:32:05 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 13:32:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 13:32:06 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 13:32:06 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 15:21:16 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 15:21:16 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 15:21:16 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 15:21:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 15:21:17 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 15:21:17 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 16:18:47 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 16:18:47 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 16:18:47 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 16:18:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 16:18:47 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 16:18:47 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 18:07:34 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1023989201999507547/aW50ZXJhY3Rpb246MTAyMzk4OTIwMTk5OTUwNzU0NzpwSXNtNEpacnk3ZzRZTGRmT1VIMWdVc0I4cThsdzBWY0dNM2ZZNnJTMjhSN3hrRkZCeUdmRzluQWw2bjJNNVpxb1lEbDFycWprYnVkQlpGRm1tb2pieVZZeE91aWxEUDFMaEFaRW1YcHJLS2hrU0VJZGNoRWZBUjFvaWg1SzBTRw/callback
+2022-09-26 18:14:33 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1023990956934041660/aW50ZXJhY3Rpb246MTAyMzk5MDk1NjkzNDA0MTY2MDpvZlA4NktkeHdUUmh3SzRCOGN6eXpxeUxpMFo4UGo1NlYzVjEzc1BhSHZsYTJhMUJETGZDNkxzZlJoY3dWR3JueldaR3Z1VmcxcUoybnVka0NhaXI4RkN0dTUyZ3pONGh0aWN5ZzFETEVLVHhpQ3daUEFTczBkVFh2QjhRellhcw/callback
+2022-09-26 18:41:33 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-26 18:46:57 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1023999111248220301/aW50ZXJhY3Rpb246MTAyMzk5OTExMTI0ODIyMDMwMTpPcTBQM3NLTkY4bUhEaGM2S3dTVjYwV2NHSmp4bzBhNWZCM0NjMG1GcmtLRWJXZkw5RnYwbXY4aDMzdFBZVnVvQ0pBTWhrYUxBWDBvUUxsNlQ1RWp5R21ySjVQRW50MklXd3BQTWlTOUlxMUFUNloxOXU1UVAwbkRwSHJ2MUg5aw/callback
+2022-09-26 18:52:27 | [WARNING] | Uncached TextChannel (1023997760535531632) on MESSAGE_CREATE
+2022-09-26 19:21:13 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-26 19:21:42 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-26 19:22:44 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1024008116590891008/aW50ZXJhY3Rpb246MTAyNDAwODExNjU5MDg5MTAwODplWW1VNDF6bEl3WTY3WldjYjJ6Ylh3VVVQT2ZaaUJvdkRzVjRxQUhseENNc3B1ZVNCTE00YW1nc3dWWEZ2VlZGWmo3bnZhWlppQlBIZ0pvcWhOd1JjeXNPSXh5c1c0RWxkNDhPUXhwZTg3THlJT2FMSnQ2a2tlU0xEQ3JzQndRYg/callback
+2022-09-26 19:32:36 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-26 19:32:43 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-26 19:32:43 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-26 19:34:53 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-26 19:51:38 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 19:51:38 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 19:51:38 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 19:51:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 19:51:38 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 19:51:38 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 19:54:15 | [WARNING] | Uncached TextChannel (1010652901942755520) on MESSAGE_CREATE
+2022-09-26 19:54:45 | [WARNING] | Uncached TextChannel (1010652901942755520) on MESSAGE_CREATE
+2022-09-26 20:38:04 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-26 20:38:10 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-26 20:46:36 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-26 21:16:35 | [WARNING] | Uncached TextChannel (1010652951787872306) on MESSAGE_CREATE
+2022-09-26 21:44:04 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 21:44:04 | [INFO]    | Shard 0 : Reconnecting after 1020 ms...
+2022-09-26 21:44:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 21:44:05 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 21:44:05 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-26 22:39:43 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-26 22:39:43 | [INFO]    | Shard 0 : Disconnected
+2022-09-26 22:39:43 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-26 22:39:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-26 22:39:43 | [INFO]    | Shard 0 : Received HELLO
+2022-09-26 22:39:43 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 02:15:54 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 02:15:54 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 02:15:54 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 02:15:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 02:15:55 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 02:15:55 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 04:04:59 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 04:04:59 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 04:04:59 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 04:04:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 04:04:59 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 04:05:00 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 05:06:50 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1024155112597356544/aW50ZXJhY3Rpb246MTAyNDE1NTExMjU5NzM1NjU0NDpCRDM3UWVlOENzNHBqeGV5VUpHMVNlaUJtUFQxQkVmN3RDdW5LMFJreFJxbTA2eHNJR0ZaR2x6bmhxTzZES0liTlFISFNKV2tOTlVtWDNIYW9xUUR4QnlmN3UxclVQaXozUjJua2ozbUl4blJucExQenVoV3Fod0RQZ0FDN3pzMA/callback
+2022-09-27 05:09:04 | [INFO]    | Discordia 2.9.2
+2022-09-27 05:09:04 | [INFO]    | Connecting to Discord...
+2022-09-27 05:09:04 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-27 05:09:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-27 05:09:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 05:09:05 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 05:09:05 | [INFO]    | Shard 0 : Received READY
+2022-09-27 07:42:45 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 07:42:45 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 07:42:45 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 07:42:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 07:42:45 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 07:42:45 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 08:20:46 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1024203919984963604/aW50ZXJhY3Rpb246MTAyNDIwMzkxOTk4NDk2MzYwNDpDWTlocjhCRVVWS3lOcG12VXU0UHdjOUdoa2REeklybmZBbHNhblZqS3dpNkg2ZkNOQ3dnWEMwR2tmRm5Va0pWZnV5ckhsM0Q1cFViazZqUlpWQkxrZDBOa21Dd0xDQTFFbENSUXVYcXhPalFhNmhlY0p5b3BVQ2h2cHd0N3hlNw/callback
+2022-09-27 11:36:07 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 11:36:07 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 11:36:07 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 11:36:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 11:36:07 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 11:36:08 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 13:37:34 | [INFO]    | Discordia 2.9.2
+2022-09-27 13:37:34 | [INFO]    | Connecting to Discord...
+2022-09-27 13:37:34 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-27 13:37:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-27 13:37:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 13:37:35 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 13:37:35 | [INFO]    | Shard 0 : Received READY
+2022-09-27 16:28:59 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 16:28:59 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 16:28:59 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 16:29:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 16:29:00 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 16:29:00 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 17:19:36 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 17:19:36 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 17:19:36 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 17:19:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 17:19:36 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 17:19:36 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 18:26:28 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 18:26:28 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 18:26:28 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 18:26:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 18:26:28 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 18:26:28 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 18:47:32 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/guilds/641329842058428416/members/695240956009644113
+2022-09-27 18:49:10 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/guilds/641329842058428416/members/695240956009644113
+2022-09-27 18:49:45 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/guilds/641329842058428416/members/695240956009644113
+2022-09-27 20:31:53 | [WARNING] | Uncached TextChannel (1010652901942755520) on MESSAGE_CREATE
+2022-09-27 20:32:47 | [WARNING] | Uncached TextChannel (1010652901942755520) on MESSAGE_DELETE
+2022-09-27 21:12:30 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 21:12:30 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 21:12:30 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 21:12:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 21:12:31 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 21:12:31 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-27 21:20:34 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-27 21:32:40 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-27 21:32:41 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-27 22:17:28 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/guilds/641329842058428416/members/670639863627907072
+2022-09-27 22:36:05 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-27 22:39:29 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-27 23:49:58 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-27 23:49:58 | [INFO]    | Shard 0 : Disconnected
+2022-09-27 23:49:58 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-27 23:49:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-27 23:49:58 | [INFO]    | Shard 0 : Received HELLO
+2022-09-27 23:49:58 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 01:01:46 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-28 01:41:42 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 01:41:42 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 01:41:42 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 01:41:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 01:41:42 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 01:41:42 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 02:11:39 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-28 02:52:11 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 02:52:11 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 02:52:11 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 02:52:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 02:52:12 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 02:52:12 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 04:23:24 | [WARNING] | Uncached TextChannel (1023337756295974962) on MESSAGE_CREATE
+2022-09-28 04:23:30 | [WARNING] | Uncached TextChannel (1023337756295974962) on MESSAGE_CREATE
+2022-09-28 05:10:21 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 05:10:21 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 05:10:21 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 05:10:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 05:10:21 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 05:10:21 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 07:49:28 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 07:49:28 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 07:49:28 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 07:49:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 07:49:28 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 07:49:28 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 10:06:39 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 10:06:39 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 10:06:39 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 10:06:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 10:06:40 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 10:06:40 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 10:24:49 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 10:24:49 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 10:24:49 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 10:24:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 10:24:49 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 10:24:49 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 10:55:03 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_STICKERS_UPDATE
+2022-09-28 10:55:05 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_STICKERS_UPDATE
+2022-09-28 12:26:29 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 12:26:29 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 12:26:29 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 12:26:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 12:26:29 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 12:26:29 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 14:11:13 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 14:11:13 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 14:11:13 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 14:11:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 14:11:13 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 14:11:13 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 14:37:09 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 14:37:09 | [INFO]    | Shard 0 : Reconnecting after 1027 ms...
+2022-09-28 14:37:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 14:37:10 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 14:37:10 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 16:21:14 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 16:21:14 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 16:21:14 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 16:21:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 16:21:14 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 16:21:14 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 17:41:37 | [WARNING] | Uncached TextChannel (1023337756295974962) on MESSAGE_CREATE
+2022-09-28 17:42:18 | [WARNING] | Uncached TextChannel (1023337756295974962) on MESSAGE_CREATE
+2022-09-28 18:40:54 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 18:40:54 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 18:40:54 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 18:40:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 18:40:54 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 18:40:54 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 18:43:38 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/guilds/641329842058428416/members/@me/nick
+2022-09-28 20:39:16 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 20:39:16 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 20:39:16 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 20:39:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 20:39:16 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 20:39:16 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 20:43:04 | [WARNING] | Uncached TextChannel (1023997760535531632) on MESSAGE_CREATE
+2022-09-28 20:50:13 | [WARNING] | Uncached TextChannel (1010935245886992464) on MESSAGE_CREATE
+2022-09-28 20:50:30 | [WARNING] | Uncached TextChannel (1010935245886992464) on MESSAGE_CREATE
+2022-09-28 20:53:51 | [WARNING] | Uncached TextChannel (1010935245886992464) on MESSAGE_CREATE
+2022-09-28 20:54:06 | [WARNING] | Uncached TextChannel (1010935245886992464) on MESSAGE_CREATE
+2022-09-28 21:04:51 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 21:04:51 | [INFO]    | Shard 0 : Reconnecting after 913 ms...
+2022-09-28 21:04:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 21:04:52 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 21:04:53 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 21:32:33 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-28 21:40:23 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-28 22:48:29 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-28 22:55:09 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-28 23:10:27 | [WARNING] | Uncached TextChannel (922459407084838942) on MESSAGE_CREATE
+2022-09-28 23:13:21 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 23:13:21 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 23:13:21 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 23:13:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 23:13:21 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 23:13:21 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 23:30:30 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-28 23:30:30 | [INFO]    | Shard 0 : Disconnected
+2022-09-28 23:30:30 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-28 23:30:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 23:30:30 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 23:30:30 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-29 00:37:15 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-29 00:37:15 | [INFO]    | Shard 0 : Disconnected
+2022-09-29 00:37:15 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-29 00:37:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 00:37:15 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 00:37:15 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-29 01:12:05 | [WARNING] | Uncached TextChannel (862971588516642816) on MESSAGE_CREATE
+2022-09-29 01:39:28 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:28 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:28 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:28 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:28 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:28 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:39 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 01:39:40 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-29 02:35:30 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-29 02:35:30 | [INFO]    | Shard 0 : Disconnected
+2022-09-29 02:35:30 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-29 02:35:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 02:35:30 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 02:35:30 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-28 22:25:48 | [INFO]    | Discordia 2.9.2
+2022-09-28 22:25:48 | [INFO]    | Connecting to Discord...
+2022-09-28 22:25:48 | [INFO]    | Authenticated as Old Eyes#7636
+2022-09-28 22:25:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-28 22:25:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-28 22:25:48 | [INFO]    | Shard 0 : Received HELLO
+2022-09-28 22:25:48 | [INFO]    | Shard 0 : Received READY
+2022-09-28 22:25:50 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/1023699599304699954/guilds/802914516542554153/commands
+2022-09-28 22:25:52 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/1023699599304699954/guilds/877304415319638057/commands
+2022-09-28 22:48:01 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/724689452131287111
+2022-09-28 22:48:01 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/811623854426161184
+2022-09-28 22:48:02 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/829055473008902185
+2022-09-28 22:48:02 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/811627216383115264
+2022-09-28 22:48:02 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/938845984274907216
+2022-09-28 22:48:03 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/862704039334641704
+2022-09-28 22:48:03 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/1010656048329265162
+2022-09-28 22:48:03 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036/roles/863760593785323530
+2022-09-28 22:48:04 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/877304415319638057/members/920078438356906036
+2022-09-28 22:48:04 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1024875165147996190/aW50ZXJhY3Rpb246MTAyNDg3NTE2NTE0Nzk5NjE5MDpqUW9KbkRsS3p2T2tjeTlBdno1YUJoVUVlQTF0ZnZJZGVUZlgyaXhxY2w1N1dFTGZsZllNZ0lUN1hxdmdnczZ6c0c4dGtiNXU0TUQwaFZ4YjdGYTVlcHdJRG40MDY2aEtRU3JMWjBlMVVaVXlJOXd6S1FTUmtHcU1iUmk5RHVXWA/callback
+2022-09-29 18:24:56 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:24:56 | [INFO]    | Connecting to Discord...
+2022-09-29 18:24:56 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:24:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:24:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:24:56 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:24:56 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:25:57 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:25:57 | [INFO]    | Connecting to Discord...
+2022-09-29 18:25:57 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:25:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:25:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:25:57 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:25:57 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:26:20 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:26:20 | [INFO]    | Connecting to Discord...
+2022-09-29 18:26:20 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:26:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:26:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:26:20 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:26:20 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:26:35 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:26:35 | [INFO]    | Connecting to Discord...
+2022-09-29 18:26:35 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:26:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:26:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:26:35 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:26:36 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:27:21 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:27:21 | [INFO]    | Connecting to Discord...
+2022-09-29 18:27:22 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:27:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:27:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:27:22 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:27:22 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:27:48 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:27:48 | [INFO]    | Connecting to Discord...
+2022-09-29 18:27:48 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:27:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:27:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:27:48 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:27:48 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:28:08 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:28:08 | [INFO]    | Connecting to Discord...
+2022-09-29 18:28:08 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:28:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:28:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:28:08 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:28:08 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:29:55 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:29:55 | [INFO]    | Connecting to Discord...
+2022-09-29 18:29:56 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:29:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:29:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:29:56 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:29:56 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:30:10 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:30:10 | [INFO]    | Connecting to Discord...
+2022-09-29 18:30:10 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:30:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:30:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:30:10 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:30:10 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:30:22 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:30:22 | [INFO]    | Connecting to Discord...
+2022-09-29 18:30:22 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:30:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:30:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:30:22 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:30:22 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:30:59 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:30:59 | [INFO]    | Connecting to Discord...
+2022-09-29 18:30:59 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:30:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:31:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:31:00 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:31:00 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:31:38 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:31:38 | [INFO]    | Connecting to Discord...
+2022-09-29 18:31:38 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:31:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:31:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:31:39 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:31:39 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:32:51 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:32:51 | [INFO]    | Connecting to Discord...
+2022-09-29 18:32:51 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:32:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:32:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:32:51 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:32:52 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:33:10 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:33:10 | [INFO]    | Connecting to Discord...
+2022-09-29 18:33:11 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:33:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:33:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:33:11 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:33:11 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:34:16 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:34:16 | [INFO]    | Connecting to Discord...
+2022-09-29 18:34:16 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:34:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:34:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:34:16 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:34:16 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:34:38 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:34:38 | [INFO]    | Connecting to Discord...
+2022-09-29 18:34:39 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:34:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:34:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:34:39 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:34:39 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:38:22 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:38:22 | [INFO]    | Connecting to Discord...
+2022-09-29 18:38:22 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:38:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:38:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:38:22 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:38:23 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:38:55 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:38:55 | [INFO]    | Connecting to Discord...
+2022-09-29 18:38:56 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:38:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:38:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:38:56 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:38:56 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:39:15 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:39:15 | [INFO]    | Connecting to Discord...
+2022-09-29 18:39:15 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:39:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:39:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:39:15 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:39:16 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:39:27 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:39:27 | [INFO]    | Connecting to Discord...
+2022-09-29 18:39:27 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:39:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:39:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:39:27 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:39:27 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:39:37 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:39:37 | [INFO]    | Connecting to Discord...
+2022-09-29 18:39:37 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:39:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:39:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:39:37 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:39:37 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:39:48 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:39:48 | [INFO]    | Connecting to Discord...
+2022-09-29 18:39:49 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:39:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:39:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:39:49 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:39:49 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:40:08 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:40:08 | [INFO]    | Connecting to Discord...
+2022-09-29 18:40:08 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:40:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:40:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:40:08 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:40:08 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:40:28 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:40:28 | [INFO]    | Connecting to Discord...
+2022-09-29 18:40:28 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:40:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:40:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:40:28 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:40:28 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:41:51 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:41:51 | [INFO]    | Connecting to Discord...
+2022-09-29 18:41:51 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:41:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:41:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:41:51 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:41:51 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:43:00 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:43:00 | [INFO]    | Connecting to Discord...
+2022-09-29 18:43:00 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:43:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:43:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:43:00 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:43:01 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:43:28 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:43:28 | [INFO]    | Connecting to Discord...
+2022-09-29 18:43:28 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:43:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:43:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:43:28 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:43:28 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:43:49 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:43:49 | [INFO]    | Connecting to Discord...
+2022-09-29 18:43:50 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:43:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:43:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:43:50 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:43:50 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:44:13 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:44:13 | [INFO]    | Connecting to Discord...
+2022-09-29 18:44:13 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:44:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:44:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:44:13 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:44:13 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:47:58 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:47:58 | [INFO]    | Connecting to Discord...
+2022-09-29 18:47:58 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:47:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:47:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:47:58 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:47:59 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:48:03 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/829444502161850478
+2022-09-29 18:48:55 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:48:55 | [INFO]    | Connecting to Discord...
+2022-09-29 18:48:55 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:48:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:48:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:48:55 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:48:55 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:49:00 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/829444502161850478
+2022-09-29 18:49:31 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:49:31 | [INFO]    | Connecting to Discord...
+2022-09-29 18:49:31 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:49:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:49:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:49:31 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:49:31 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:49:36 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/829444502161850478
+2022-09-29 18:49:55 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:49:55 | [INFO]    | Connecting to Discord...
+2022-09-29 18:49:55 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:49:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:49:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:49:55 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:49:56 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:50:04 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/829444502161850478
+2022-09-29 18:50:16 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:50:16 | [INFO]    | Connecting to Discord...
+2022-09-29 18:50:16 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:50:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:50:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:50:16 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:50:16 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:50:49 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:50:49 | [INFO]    | Connecting to Discord...
+2022-09-29 18:50:50 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:50:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:50:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:50:50 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:50:50 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:51:01 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:51:01 | [INFO]    | Connecting to Discord...
+2022-09-29 18:51:01 | [INFO]    | Authenticated as Old Eyes#7636
+2022-09-29 18:51:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:51:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:51:01 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:51:01 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:51:03 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/1023699599304699954/guilds/877304415319638057/commands
+2022-09-29 18:51:05 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/1023699599304699954/guilds/802914516542554153/commands
+2022-09-29 18:51:16 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:51:16 | [INFO]    | Connecting to Discord...
+2022-09-29 18:51:16 | [INFO]    | Authenticated as Old Eyes#7636
+2022-09-29 18:51:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:51:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:51:16 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:51:16 | [INFO]    | Shard 0 : Received READY
+2022-09-29 18:51:24 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/1023699599304699954/guilds/802914516542554153/commands
+2022-09-29 18:51:28 | [INFO]    | Discordia 2.9.2
+2022-09-29 18:51:28 | [INFO]    | Connecting to Discord...
+2022-09-29 18:51:29 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 18:51:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 18:51:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 18:51:29 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 18:51:29 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:03:03 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:03:03 | [INFO]    | Connecting to Discord...
+2022-09-29 19:03:04 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:03:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:03:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:03:04 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:03:04 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:06:31 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:06:31 | [INFO]    | Connecting to Discord...
+2022-09-29 19:06:31 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:06:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:06:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:06:31 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:06:32 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:06:47 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:06:47 | [INFO]    | Connecting to Discord...
+2022-09-29 19:06:48 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:06:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:06:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:06:48 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:06:48 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:09:07 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:09:07 | [INFO]    | Connecting to Discord...
+2022-09-29 19:09:07 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:09:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:09:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:09:08 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:09:08 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:09:25 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:09:25 | [INFO]    | Connecting to Discord...
+2022-09-29 19:09:26 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:09:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:09:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:09:26 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:09:26 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:11:58 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:11:58 | [INFO]    | Connecting to Discord...
+2022-09-29 19:11:58 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:11:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:11:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:11:58 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:11:58 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:12:05 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-29 19:13:02 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:13:02 | [INFO]    | Connecting to Discord...
+2022-09-29 19:13:02 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:13:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:13:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:13:03 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:13:03 | [INFO]    | Shard 0 : Received READY
+2022-09-29 19:15:30 | [INFO]    | Discordia 2.9.2
+2022-09-29 19:15:30 | [INFO]    | Connecting to Discord...
+2022-09-29 19:15:30 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 19:15:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 19:15:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 19:15:31 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 19:15:31 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:14:18 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:14:18 | [INFO]    | Connecting to Discord...
+2022-09-29 20:14:18 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:14:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:14:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:14:18 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:14:19 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:15:48 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:15:48 | [INFO]    | Connecting to Discord...
+2022-09-29 20:15:49 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:15:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:15:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:15:49 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:15:49 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:16:08 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:16:29 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:16:50 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:17:20 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:17:20 | [INFO]    | Connecting to Discord...
+2022-09-29 20:17:20 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:17:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:17:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:17:20 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:17:20 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:17:31 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:17:49 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:17:49 | [INFO]    | Connecting to Discord...
+2022-09-29 20:17:50 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:17:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:17:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:17:50 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:17:50 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:17:55 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:18:11 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:18:42 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:19:24 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:19:24 | [INFO]    | Connecting to Discord...
+2022-09-29 20:19:24 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:19:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:19:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:19:24 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:19:25 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:19:34 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:19:55 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:19:55 | [INFO]    | Connecting to Discord...
+2022-09-29 20:19:55 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:19:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:19:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:19:55 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:19:55 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:20:01 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:20:16 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:20:29 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:20:29 | [INFO]    | Connecting to Discord...
+2022-09-29 20:20:29 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:20:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:20:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:20:29 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:20:30 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:20:44 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:27:09 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:27:19 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/802914516542554153/members/nil
+2022-09-29 20:31:10 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:31:10 | [INFO]    | Connecting to Discord...
+2022-09-29 20:31:10 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:31:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:31:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:31:10 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:31:11 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:31:49 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:31:49 | [INFO]    | Connecting to Discord...
+2022-09-29 20:31:49 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:31:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:31:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:31:49 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:31:50 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:33:02 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:33:02 | [INFO]    | Connecting to Discord...
+2022-09-29 20:33:03 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:33:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:33:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:33:03 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:33:03 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:33:43 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:33:43 | [INFO]    | Connecting to Discord...
+2022-09-29 20:33:44 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:33:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:33:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:33:44 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:33:44 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:35:06 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:35:06 | [INFO]    | Connecting to Discord...
+2022-09-29 20:35:07 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:35:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:35:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:35:07 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:35:07 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:35:53 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:35:53 | [INFO]    | Connecting to Discord...
+2022-09-29 20:35:53 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:35:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:35:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:35:53 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:35:53 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:36:42 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:36:42 | [INFO]    | Connecting to Discord...
+2022-09-29 20:36:42 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:36:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:36:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:36:43 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:36:43 | [INFO]    | Shard 0 : Received READY
+2022-09-29 20:37:13 | [INFO]    | Discordia 2.9.2
+2022-09-29 20:37:13 | [INFO]    | Connecting to Discord...
+2022-09-29 20:37:13 | [INFO]    | Authenticated as JsTest#3365
+2022-09-29 20:37:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-29 20:37:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-29 20:37:13 | [INFO]    | Shard 0 : Received HELLO
+2022-09-29 20:37:13 | [INFO]    | Shard 0 : Received READY
+2022-09-29 22:02:31 | [INFO]    | Shard 0 : Disconnected
+2022-09-29 22:02:31 | [INFO]    | Shard 0 : Reconnecting after 1037 ms...
+2022-09-29 22:02:32 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:02:32 | [INFO]    | Shard 0 : Reconnecting after 2126 ms...
+2022-09-29 22:02:34 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:02:34 | [INFO]    | Shard 0 : Reconnecting after 4033 ms...
+2022-09-29 22:02:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:02:38 | [INFO]    | Shard 0 : Reconnecting after 8460 ms...
+2022-09-29 22:02:46 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:02:46 | [INFO]    | Shard 0 : Reconnecting after 14479 ms...
+2022-09-29 22:03:01 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:03:01 | [INFO]    | Shard 0 : Reconnecting after 30222 ms...
+2022-09-29 22:03:31 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:03:31 | [INFO]    | Shard 0 : Reconnecting after 65300 ms...
+2022-09-29 22:04:36 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:04:36 | [INFO]    | Shard 0 : Reconnecting after 63010 ms...
+2022-09-29 22:05:39 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-09-29 22:05:39 | [INFO]    | Shard 0 : Reconnecting after 64812 ms...
