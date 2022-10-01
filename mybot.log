@@ -1262,3 +1262,42 @@
 2022-10-01 16:36:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-10-01 16:36:30 | [INFO]    | Shard 0 : Received HELLO
 2022-10-01 16:36:31 | [INFO]    | Shard 0 : Received READY
+2022-10-01 16:37:25 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:37:25 | [INFO]    | Connecting to Discord...
+2022-10-01 16:37:25 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-10-01 16:37:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-01 16:37:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 16:37:25 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 16:37:25 | [INFO]    | Shard 0 : Received READY
+2022-10-01 16:43:03 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:43:03 | [INFO]    | Connecting to Discord...
+2022-10-01 16:43:03 | [INFO]    | Authenticated as Ink#3645
+2022-10-01 16:43:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-01 16:43:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 16:43:04 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 16:43:04 | [INFO]    | Shard 0 : Received READY
+2022-10-01 16:45:02 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/724689452131287111
+2022-10-01 16:45:02 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/811623854426161184
+2022-10-01 16:45:03 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/829055473008902185
+2022-10-01 16:45:03 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/811627216383115264
+2022-10-01 16:45:04 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/938845984274907216
+2022-10-01 16:45:04 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/862704039334641704
+2022-10-01 16:45:04 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/1010656048329265162
+2022-10-01 16:45:05 | [ERROR]   | 404 - Not Found : PUT https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517/roles/863760593785323530
+2022-10-01 16:45:05 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517
+2022-10-01 16:45:05 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1025870985888546846/aW50ZXJhY3Rpb246MTAyNTg3MDk4NTg4ODU0Njg0NjpRYnQ4WFhmVDlCTXJMY1ZDWHNyZTZGNkpZVUg3bmdwM2hhZ0xpUkJTUjhnazMxanNodDdvdUVoUU9Yd3diazFFU09sVWtzV0xYcWpKUGs0eXp6SFdGNEdZOEptSlpiUGpXZ2dmOWl3bmQwQzRZcHg0aUpWcWtBdHlyZTM2RHI4NA/callback
+2022-10-01 16:45:12 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:45:12 | [INFO]    | Connecting to Discord...
+2022-10-01 16:45:12 | [INFO]    | Authenticated as Ink#3645
+2022-10-01 16:45:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-01 16:45:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 16:45:12 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 16:45:12 | [INFO]    | Shard 0 : Received READY
+2022-10-01 16:45:20 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517
+2022-10-01 16:55:26 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:55:26 | [INFO]    | Connecting to Discord...
+2022-10-01 16:55:27 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-10-01 16:55:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-01 16:55:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 16:55:27 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 16:55:27 | [INFO]    | Shard 0 : Received READY
