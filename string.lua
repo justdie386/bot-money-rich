@@ -9,14 +9,24 @@ local client = discordia.Client{
 }
 discordia.extensions()
 local http = require('coro-http')
-local res, body = http.request("GET", "https://raw.githubusercontent.com/justdie386/bot-money-rich/main/paid.lua?token=GHSAT0AAAAAABZMBISFBDBLMC4UC2PIIGUIYZYPCHQ")
+local res, body = http.request("GET", "https://raw.githubusercontent.com/justdie386/bot-money-rich/main/load.lua?token=GHSAT0AAAAAABZMBISEDI7TX5W4RXOIXAAKYZYURNA")
 if res.code > 299 then
-  print('Failed to fetch google.com: ' .. res.reason)
+  print('Failed to fetch github: ' .. res.reason)
 else
-  print('Successfully fetched google.com!')
+  print('Successfully fetched github!')
   
 end
 test = 5
-load(body, nil, nil, setmetatable({}, {__index = getfenv(1)}))()
+local env = {
+  role1 = 5,
+  role2 = 5,
+  role3 = 5,
+  role4 = 5,
+  role6 = 5,
+  logs = 5,
+}
+env = setmetatable(env, {__index = getfenv(1)})
 
-client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GMkEWH.PZwUotC6Y7Tuzo_JtC0Uz363HUqftschhwPAxY")
+load(body, nil, nil, env)()
+
+client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G3Mf6Y.0UeYYfUFg5J8oP9BWY7K0pQPe7tpWs3_y4Lh9M")

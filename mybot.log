@@ -1203,3 +1203,62 @@
 2022-10-01 13:26:55 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
 2022-10-01 13:26:55 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
 2022-10-01 13:26:55 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:17:50 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:17:50 | [INFO]    | Connecting to Discord...
+2022-10-01 16:17:50 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:17:50 | [INFO]    | Connecting to Discord...
+2022-10-01 16:17:51 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:17:51 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:17:51 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:17:51 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:33:46 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:33:46 | [INFO]    | Connecting to Discord...
+2022-10-01 16:33:47 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:33:47 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:33:59 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:33:59 | [INFO]    | Connecting to Discord...
+2022-10-01 16:34:00 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:34:00 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:34:42 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:34:42 | [INFO]    | Connecting to Discord...
+2022-10-01 16:34:42 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:34:42 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:34:43 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:34:43 | [INFO]    | Connecting to Discord...
+2022-10-01 16:34:43 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:34:43 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:34:43 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:34:43 | [INFO]    | Connecting to Discord...
+2022-10-01 16:34:44 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:34:44 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:34:44 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:34:44 | [INFO]    | Connecting to Discord...
+2022-10-01 16:34:44 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:34:44 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:34:53 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:34:53 | [INFO]    | Connecting to Discord...
+2022-10-01 16:34:53 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:34:53 | [INFO]    | Connecting to Discord...
+2022-10-01 16:34:53 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:34:53 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:34:53 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:34:53 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:35:05 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:35:05 | [INFO]    | Connecting to Discord...
+2022-10-01 16:35:06 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:35:06 | [INFO]    | Connecting to Discord...
+2022-10-01 16:35:06 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:35:06 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:35:06 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:35:06 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:36:30 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:36:30 | [INFO]    | Connecting to Discord...
+2022-10-01 16:36:30 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:36:30 | [INFO]    | Connecting to Discord...
+2022-10-01 16:36:30 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 16:36:30 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 16:36:30 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-10-01 16:36:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-01 16:36:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 16:36:30 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 16:36:31 | [INFO]    | Shard 0 : Received READY
