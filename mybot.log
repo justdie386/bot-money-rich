@@ -1191,3 +1191,15 @@
 2022-10-01 11:23:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-10-01 11:23:37 | [INFO]    | Shard 0 : Received HELLO
 2022-10-01 11:23:38 | [INFO]    | Shard 0 : Received READY
+2022-10-01 13:13:18 | [INFO]    | Discordia 2.9.2
+2022-10-01 13:13:18 | [INFO]    | Connecting to Discord...
+2022-10-01 13:13:18 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 13:13:18 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 13:26:54 | [INFO]    | Discordia 2.9.2
+2022-10-01 13:26:54 | [INFO]    | Connecting to Discord...
+2022-10-01 13:26:54 | [INFO]    | Discordia 2.9.2
+2022-10-01 13:26:54 | [INFO]    | Connecting to Discord...
+2022-10-01 13:26:55 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 13:26:55 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-01 13:26:55 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-01 13:26:55 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized

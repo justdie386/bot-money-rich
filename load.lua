@@ -1,3 +1,4 @@
+print(test)
 local dia = require("discordia")
 local dcmd = require("discordia-commands")
 local autocomplete = require("autocomplete")
