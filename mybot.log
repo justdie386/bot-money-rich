@@ -1301,3 +1301,51 @@
 2022-10-01 16:55:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-10-01 16:55:27 | [INFO]    | Shard 0 : Received HELLO
 2022-10-01 16:55:27 | [INFO]    | Shard 0 : Received READY
+2022-10-01 16:59:37 | [INFO]    | Discordia 2.9.2
+2022-10-01 16:59:37 | [INFO]    | Connecting to Discord...
+2022-10-01 16:59:37 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-10-01 16:59:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-01 16:59:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 16:59:37 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 16:59:37 | [INFO]    | Shard 0 : Received READY
+2022-10-01 17:32:08 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-10-01 17:32:08 | [INFO]    | Shard 0 : Disconnected
+2022-10-01 17:32:08 | [INFO]    | Shard 0 : Reconnecting...
+2022-10-01 17:32:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 17:32:08 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 17:32:09 | [INFO]    | Shard 0 : Received RESUMED
+2022-10-01 18:23:11 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-10-01 18:24:13 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-10-01 19:44:59 | [WARNING] | Uncached TextChannel (655860650630971404) on MESSAGE_CREATE
+2022-10-01 20:18:33 | [INFO]    | Shard 0 : Disconnected
+2022-10-01 20:18:33 | [INFO]    | Shard 0 : Reconnecting after 961 ms...
+2022-10-01 20:18:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 20:18:34 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 20:18:34 | [INFO]    | Shard 0 : Received RESUMED
+2022-10-01 20:19:03 | [INFO]    | Shard 0 : Disconnected
+2022-10-01 20:19:03 | [INFO]    | Shard 0 : Reconnecting after 980 ms...
+2022-10-01 20:19:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 20:19:04 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 20:19:04 | [INFO]    | Shard 0 : Received RESUMED
+2022-10-01 20:20:22 | [INFO]    | Shard 0 : Disconnected
+2022-10-01 20:20:22 | [INFO]    | Shard 0 : Disconnected
+2022-10-01 20:20:22 | [INFO]    | Shard 0 : Reconnecting after 952 ms...
+2022-10-01 20:20:22 | [INFO]    | Shard 0 : Reconnecting after 1067 ms...
+2022-10-01 20:20:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 20:20:23 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 20:20:23 | [INFO]    | Shard 0 : Received RESUMED
+2022-10-01 20:20:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 20:20:23 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 20:20:23 | [INFO]    | Shard 0 : Received RESUMED
+2022-10-01 22:31:29 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-10-01 22:31:29 | [INFO]    | Shard 0 : Disconnected
+2022-10-01 22:31:29 | [INFO]    | Shard 0 : Reconnecting...
+2022-10-01 22:31:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 22:31:29 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 22:31:29 | [INFO]    | Shard 0 : Received RESUMED
+2022-10-01 23:58:25 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-10-01 23:58:25 | [INFO]    | Shard 0 : Disconnected
+2022-10-01 23:58:25 | [INFO]    | Shard 0 : Reconnecting...
+2022-10-01 23:58:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-01 23:58:25 | [INFO]    | Shard 0 : Received HELLO
+2022-10-01 23:58:25 | [INFO]    | Shard 0 : Received RESUMED

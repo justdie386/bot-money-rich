@@ -103,35 +103,37 @@
             initializeCommands3(guild)
         end
     end)
-    client:on("slashCommand", function(interaction, command, args)
-            if interaction.data.name == "role" then
-                print(args.this.recruit)
-            local recruiter = args.this.recruiter
-            local recruit = args.this.recruit
+        client:on("slashCommand", function(interaction, command, args)
+                if interaction.data.name == "role" then
+                    print(args.this.recruit)
+                local recruiter = args.this.recruiter
+                local recruit = args.this.recruit
 
-            print(recruit.name)
-            recruit:addRole("724689452131287111")
-            if role1 ~= nil then
-            recruit:addRole("811623854426161184")
-            if role2 ~= nil then
-            recruit:addRole("829055473008902185")
-            if role3 ~= nil then
-            recruit:addRole("811627216383115264")
-            if role4 ~= nil then
-            recruit:addRole("938845984274907216")
-            if role5 ~= nil then
-            recruit:addRole("862704039334641704")
-            if role6 ~= nil then
-            recruit:addRole("1010656048329265162")
-            if role7 ~= nil then
-                recruit:addRole("863760593785323530")
+                print(recruit.name)
+                if rolex ~= nil then
+                recruit:addRole(rolex)
+                if role1 ~= nil then
+                recruit:addRole(role1)
+                if role2 ~= nil then
+                recruit:addRole(role2)
+                if role3 ~= nil then
+                recruit:addRole(role3)
+                if role4 ~= nil then
+                recruit:addRole(role4)
+                if role5 ~= nil then
+                recruit:addRole(role5)
+                if role6 ~= nil then
+                recruit:addRole(role6)
+                if role7 ~= nil then
+                    recruit:addRole(role7)
+                                        end
+                                    end 
+                                end
+                               end
+                           end
+                      end
+                 end
                 end
-                end
-                end
-                end
-                end
-            end
-            end
             recruit:setNickname("[35th] "..recruit.name)
             local logsChannel, err = client:getChannel("1012697310943264820")
             local success, err = interaction:reply("Successfully roled by "..tostring(recruit.name))
