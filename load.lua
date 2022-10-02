@@ -110,30 +110,15 @@
                 local recruit = args.this.recruit
 
                 print(recruit.name)
-                if rolex ~= nil then
                 recruit:addRole(rolex)
-                if role1 ~= nil then
                 recruit:addRole(role1)
-                if role2 ~= nil then
                 recruit:addRole(role2)
-                if role3 ~= nil then
                 recruit:addRole(role3)
-                if role4 ~= nil then
                 recruit:addRole(role4)
-                if role5 ~= nil then
                 recruit:addRole(role5)
-                if role6 ~= nil then
                 recruit:addRole(role6)
-                if role7 ~= nil then
-                    recruit:addRole(role7)
-                                        end
-                                    end 
-                                end
-                               end
-                           end
-                      end
-                 end
-                end
+                 recruit:addRole(role7)
+ 
             recruit:setNickname("[35th] "..recruit.name)
             local logsChannel, err = client:getChannel("1012697310943264820")
             local success, err = interaction:reply("Successfully roled by "..tostring(recruit.name))
