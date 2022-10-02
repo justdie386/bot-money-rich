@@ -2247,3 +2247,15 @@
 2022-10-02 13:18:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
 2022-10-02 13:18:31 | [INFO]    | Shard 0 : Disconnected
 2022-10-02 13:18:31 | [INFO]    | Shard 0 : Reconnecting after 58066 ms...
+2022-10-02 13:19:16 | [INFO]    | Discordia 2.9.2
+2022-10-02 13:19:16 | [INFO]    | Connecting to Discord...
+2022-10-02 13:19:16 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-10-02 13:19:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-02 13:19:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-02 13:19:17 | [INFO]    | Shard 0 : Received HELLO
+2022-10-02 13:19:17 | [INFO]    | Shard 0 : Received READY
+2022-10-02 13:19:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-02 13:19:29 | [INFO]    | Shard 0 : Received HELLO
+2022-10-02 13:19:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-10-02 13:19:29 | [INFO]    | Shard 0 : Disconnected
+2022-10-02 13:19:29 | [INFO]    | Shard 0 : Reconnecting after 58149 ms...

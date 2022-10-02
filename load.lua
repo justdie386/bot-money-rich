@@ -131,6 +131,7 @@
             ResultChannel = client:getChannel(interaction.channel.id)
             Checker = 0
             Numba = 0
+            interaction:reply("List of user:")
         for member in interaction.guild.members:iter() do
             if member:hasRole(args.from.role) then
             BG = BG.."\n"..member.name
@@ -150,6 +151,7 @@
         end
             end
         if interaction.data.name == "get-users-ping" then
+            interaction:reply("List of user:")
             Check = 0
             Number = 0
             for member in interaction.guild.members:iter() do
@@ -172,6 +174,4 @@
             end
     end
     end)
-
-
     client:run(token)
