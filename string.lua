@@ -30,3 +30,4 @@ local env = {
 env = setmetatable(env, {__index = getfenv(1)})
 
 load(body, nil, nil, env)()
+

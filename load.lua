@@ -8,7 +8,7 @@
         logFile = 'mybot.log',
         cacheAllMembers = true,
     }:useApplicationCommands()
-
+print("still alive")
     dia.extensions()
     local function initializeCommands1(guild)
     local command, err = client:createGuildApplicationCommand(guild.id, {
@@ -17,6 +17,7 @@
         description = " nice",
     })
     end
+    print("Still alive p1")
     client:on('messageCreate', function(message)
         if message.content == "launch" then
             print("nice")
