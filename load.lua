@@ -23,6 +23,7 @@ print("still alive")
             print("nice")
         end
     end)
+    print("nice")
     local function initializeCommands2(guild)
     local command, err = client:createGuildApplicationCommand(guild.id, {
         type = commandType.chatInput,
@@ -98,9 +99,10 @@ print("still alive")
                 },
             })
         end
-
+print("awesome")
     client:on("ready", function()
         for guild in client.guilds:iter() do
+            print("gawd damn")
 
             initializeCommands(guild)
             initializeCommands2(guild)
@@ -180,3 +182,4 @@ print("still alive")
             end
     end
     end)
+    print("JESUS")
