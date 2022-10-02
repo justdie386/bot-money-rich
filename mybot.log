@@ -1370,3 +1370,10 @@
 2022-10-02 10:25:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-10-02 10:25:12 | [INFO]    | Shard 0 : Received HELLO
 2022-10-02 10:25:12 | [INFO]    | Shard 0 : Received READY
+2022-10-02 10:25:55 | [INFO]    | Discordia 2.9.2
+2022-10-02 10:25:55 | [INFO]    | Connecting to Discord...
+2022-10-02 10:25:56 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-10-02 10:25:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-02 10:25:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-02 10:25:56 | [INFO]    | Shard 0 : Received HELLO
+2022-10-02 10:25:56 | [INFO]    | Shard 0 : Received READY

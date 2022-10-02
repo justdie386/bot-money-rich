@@ -104,6 +104,7 @@
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
+            print("nice")
                 if interaction.data.name == "role" then
                     print(args.this.recruit)
                 local recruiter = args.this.recruiter
