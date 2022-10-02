@@ -17,6 +17,7 @@ else
   
 end
 local env = {
+  client = client,
   test = 5,
   rolex = "724689452131287111",
   role1 = "811623854426161184",

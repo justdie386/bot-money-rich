@@ -8,7 +8,6 @@
         logFile = 'mybot.log',
         cacheAllMembers = true,
     }:useApplicationCommands()
-print("still alive")
     dia.extensions()
     local function initializeCommands1(guild)
     local command, err = client:createGuildApplicationCommand(guild.id, {
@@ -17,13 +16,7 @@ print("still alive")
         description = " nice",
     })
     end
-    print("Still alive p1")
-    client:on('messageCreate', function(message)
-        if message.content == "launch" then
-            print("nice")
-        end
-    end)
-    print("nice")
+
     local function initializeCommands2(guild)
     local command, err = client:createGuildApplicationCommand(guild.id, {
         type = commandType.chatInput,
@@ -99,10 +92,8 @@ print("still alive")
                 },
             })
         end
-print("awesome")
     client:on("ready", function()
         for guild in client.guilds:iter() do
-            print("gawd damn")
 
             initializeCommands(guild)
             initializeCommands2(guild)
@@ -111,7 +102,6 @@ print("awesome")
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
-            print("nice")
                 if interaction.data.name == "role" then
                     print(args.this.recruit)
                 local recruiter = args.this.recruiter
@@ -182,4 +172,3 @@ print("awesome")
             end
     end
     end)
-    print("JESUS")
