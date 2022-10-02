@@ -17,6 +17,11 @@
         description = " nice",
     })
     end
+    client:on('messageCreate', function(message)
+        if message.content == "launch" then
+            print("nice")
+        end
+    end)
     local function initializeCommands2(guild)
     local command, err = client:createGuildApplicationCommand(guild.id, {
         type = commandType.chatInput,
@@ -174,5 +179,3 @@
             end
     end
     end)
-
-    client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G3Mf6Y.0UeYYfUFg5J8oP9BWY7K0pQPe7tpWs3_y4Lh9M")
