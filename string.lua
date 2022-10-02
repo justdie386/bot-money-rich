@@ -9,7 +9,7 @@ local client = discordia.Client{
 }
 discordia.extensions()
 local http = require('coro-http')
-local res, body = http.request("GET", "https://raw.githubusercontent.com/justdie386/bot-money-rich/main/load.lua?token=GHSAT0AAAAAABZMBISE6WOX67P73IWYM2H2YZZT6PA")
+local res, body = http.request("GET", "https://raw.githubusercontent.com/justdie386/bot-money-rich/main/load.lua")
 if res.code > 299 then
   print('Failed to fetch github: ' .. res.reason)
 else
@@ -31,4 +31,4 @@ env = setmetatable(env, {__index = getfenv(1)})
 
 load(body, nil, nil, env)()
 
-client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G3Mf6Y.0UeYYfUFg5J8oP9BWY7K0pQPe7tpWs3_y4Lh9M")
+client:run("Bot")

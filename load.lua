@@ -1,4 +1,3 @@
-    print(test)
     local dia = require("discordia")
     local dcmd = require("discordia-commands")
     local autocomplete = require("autocomplete")
@@ -175,3 +174,5 @@
             end
     end
     end)
+
+    client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G3Mf6Y.0UeYYfUFg5J8oP9BWY7K0pQPe7tpWs3_y4Lh9M")
