@@ -141,7 +141,7 @@
             if member:hasRole(args.from.role) then
             BG = BG.."\n"..member.name
             Checker = Checker + 1
-                if Checker == 20 then
+                if Checker == 40 then
                     print(BG)
                     ResultChannel:send(BG)
                     BG = " "
@@ -149,7 +149,7 @@
                 end
             end
         end
-        if Checker ~= 0 or 20 then
+        if Checker ~= 0 or 40 then
                     print(BG)
             ResultChannel:send(BG)
             print(interaction.data.name.." used the command")
@@ -165,7 +165,7 @@
                 Beau = Beau.."\n".."<@"..member.id..">"
                 print(Beau)
                 Check = Check + 1
-                if Check == 20 then
+                if Check == 40 then
                             print(Beau)
                     ResultChannel:send(Beau)
                     Beau = " "
@@ -173,7 +173,7 @@
                 end
                 end
             end
-            if Check ~= 0 or 20 then
+            if Check ~= 0 or 40 then
                     print(Beau)
                 ResultChannel:send(Beau)
                 Check = 0
