@@ -101,7 +101,7 @@
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
-            if interaction.member:hasRole("1010651979229442079") == true then
+            if interaction.author:hasRole("1010651979229442079") == true then
                 
                 if interaction.data.name == "role" then
                     print(args.this.recruit)
@@ -152,6 +152,7 @@
         if Checker ~= 0 or 20 then
                     print(BG)
             ResultChannel:send(BG)
+            print(interaction.data.name.." used the command")
             Checker = 0
         end
             end
