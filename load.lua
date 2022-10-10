@@ -147,7 +147,7 @@
                     BG = " "
                     Checker = 0
                     print(interaction.author.." used the command")
-                    interaction:reply("USED BY "..interaction.author)
+                    interaction:reply("USED BY "..tostring(interaction.author))
 
                 end
             end
