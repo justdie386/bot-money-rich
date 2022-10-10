@@ -176,9 +176,6 @@
                     print(Beau)
                 ResultChannel:send(Beau)
                 Check = 0
-                print(interaction.author.." used the command")
-                interaction:reply("USED BY "..interaction.author)
-
             end
     end
 end
