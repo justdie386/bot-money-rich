@@ -101,7 +101,7 @@
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
-            if interaction.data:hasRole("1028294307574206535") then
+            if interaction.data:hasRole("1028294307574206535") == true then
                 print("nice")
             end
                 if interaction.data.name == "role" then
