@@ -101,7 +101,6 @@
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
-            if interaction.data:hasRole("1010651979229442079") == true then
                 if interaction.data.name == "role" then
                     print(args.this.recruit)
                 local recruiter = args.this.recruiter
@@ -177,6 +176,6 @@
                 Check = 0
             end
     end
-end
+
     end)
     client:run(token)
