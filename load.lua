@@ -146,8 +146,8 @@
                     ResultChannel:send(BG)
                     BG = " "
                     Checker = 0
-                    print(interaction.data.name.." used the command")
-                    interaction:reply("USED BY "..interaction.data.name)
+                    print(interaction.author.." used the command")
+                    interaction:reply("USED BY "..interaction.author)
 
                 end
             end
@@ -155,8 +155,8 @@
         if Checker ~= 0 or 20 then
                     print(BG)
             ResultChannel:send(BG)
-            print(interaction.data.name.." used the command")
-            interaction:reply("USED BY "..interaction.data.name)
+            print(interaction.author.." used the command")
+            interaction:reply("USED BY "..interaction.author)
             Checker = 0
         end
             end
@@ -174,8 +174,8 @@
                     ResultChannel:send(Beau)
                     Beau = " "
                     Check = 0
-                    interaction:reply("USED BY "..interaction.data.name)
-                    print(interaction.data.name.." used the command")
+                    interaction:reply("USED BY "..interaction.author)
+                    print(interaction.author.." used the command")
                 end
                 end
             end
@@ -183,8 +183,8 @@
                     print(Beau)
                 ResultChannel:send(Beau)
                 Check = 0
-                print(interaction.data.name.." used the command")
-                interaction:reply("USED BY "..interaction.data.name)
+                print(interaction.author.." used the command")
+                interaction:reply("USED BY "..interaction.author)
 
             end
     end
