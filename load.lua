@@ -147,6 +147,8 @@
                     BG = " "
                     Checker = 0
                     print(interaction.data.name.." used the command")
+                    interaction:reply("USED BY "..interaction.data.name)
+
                 end
             end
         end
@@ -154,6 +156,7 @@
                     print(BG)
             ResultChannel:send(BG)
             print(interaction.data.name.." used the command")
+            interaction:reply("USED BY "..interaction.data.name)
             Checker = 0
         end
             end
@@ -171,6 +174,7 @@
                     ResultChannel:send(Beau)
                     Beau = " "
                     Check = 0
+                    interaction:reply("USED BY "..interaction.data.name)
                     print(interaction.data.name.." used the command")
                 end
                 end
@@ -180,6 +184,8 @@
                 ResultChannel:send(Beau)
                 Check = 0
                 print(interaction.data.name.." used the command")
+                interaction:reply("USED BY "..interaction.data.name)
+
             end
     end
 end
