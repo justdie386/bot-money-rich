@@ -101,7 +101,7 @@
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
-            if interaction.author.data:hasRole(1010651979229442079) then
+            if interaction.member.data:hasRole(1010651979229442079) then
                 if interaction.data.name == "role" then
                     print(args.this.recruit)
                 local recruiter = args.this.recruiter
