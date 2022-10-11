@@ -146,6 +146,7 @@
                     ResultChannel:send(BG)
                     BG = " "
                     Checker = 0
+                    interaction:reply(interaction.member)
                 end
             end
         end
@@ -154,6 +155,7 @@
             ResultChannel:send(BG)
             print(interaction.data.name.." used the command")
             Checker = 0
+            interaction:reply(interaction.member)
         end
             end
         if interaction.data.name == "get-users-ping" then
@@ -170,6 +172,7 @@
                     ResultChannel:send(Beau)
                     Beau = " "
                     Check = 0
+                    interaction:reply(interaction.member)
                 end
                 end
             end
@@ -177,6 +180,7 @@
                     print(Beau)
                 ResultChannel:send(Beau)
                 Check = 0
+                interaction:reply(interaction.member)
             end
     end
 else interaction:reply("You aren't a 35th staff don't even try") end
