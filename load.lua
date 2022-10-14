@@ -119,7 +119,7 @@
                  recruit:addRole(role7)
 
             recruit:setNickname("[35th] "..recruit.name)
-            local logsChannel, err = client:getChannel(logChannel)
+            logsChannel, err = client:getChannel(logChannel)
             local success, err = interaction:reply{
                 embed = {
                     title = "Succesfully roled by "..tostring(recruit.name),
