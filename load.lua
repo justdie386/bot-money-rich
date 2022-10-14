@@ -101,7 +101,7 @@
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
-            if interaction.member:hasRole(rank) == true then
+            if interaction.member:hasRole(rank) == true or interaction.member:hasRole("901670135532748830") then
                 
                 if interaction.data.name == "role" then
                     print(args.this.recruit)
