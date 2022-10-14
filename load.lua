@@ -186,3 +186,4 @@
 else interaction:reply("You aren't a 35th staff don't even try") end
     end)
     client:run(token)
+    print("awesome buddy!!")

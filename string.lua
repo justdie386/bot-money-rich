@@ -14,9 +14,9 @@ if res.code > 299 then
   print('Failed to fetch github: ' .. res.reason)
 else
   print('Successfully fetched github!')
-  
 end
 local env = {
+  token = ""
   client = client,
   test = 5,
   rolex = "724689452131287111",
@@ -33,3 +33,4 @@ env = setmetatable(env, {__index = getfenv(1)})
 load(body, nil, nil, env)()
 
 
+for i=1,5 do
