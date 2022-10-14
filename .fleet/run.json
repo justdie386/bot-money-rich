@@ -1,5 +1,9 @@
 {
-    "configurations": [
-
+  "configurations": [
+    {
+      "name": "luvit",
+      "type": "command",
+      "program": "C:/Users/justi/Desktop/shell.bat"
+    }
     ]
 }

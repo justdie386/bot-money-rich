@@ -119,7 +119,7 @@
                  recruit:addRole(role7)
 
             recruit:setNickname("[35th] "..recruit.name)
-            local logsChannel, err = client:getChannel("1012697310943264820")
+            local logsChannel, err = client:getChannel(logChannel)
             local success, err = interaction:reply{
                 embed = {
                     title = "Succesfully roled by "..tostring(recruit.name),
@@ -186,4 +186,7 @@
 else interaction:reply("You aren't a 35th staff don't even try") end
     end)
     client:run(token)
-    print("awesome buddy!!")
+    print("naw man you are awesome too")
+    if nice == "nice" then
+        print("nice")
+    end
