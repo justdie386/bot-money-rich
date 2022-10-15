@@ -120,21 +120,21 @@
                  recruit:addRole(role7)
 
             recruit:setNickname(nick.." "..recruit.name)
-            LogsChannel, err = client:getChannel(logChannel)
+            LogsChannel = client:getChannel(logChannel)
             local success, err = interaction:reply{
                 embed = {
                     title = "Succesfully roled by "..tostring(recruit.name),
                 }
             }
                 if err then print(err) end
-        LogsChannel:send("<@"..tostring(recruiter.id)..">".." - ".."<@"..tostring(recruit.id)..">")
+         LogsChannel:send("<@"..tostring(recruiter.id)..">".." - ".."<@"..tostring(recruit.id)..">")
         if err then print(err) end
         end
         BG = ""
         Beau = ""
         if interaction.data.name == "get-users" then
             ResultChannel = client:getChannel(interaction.channel.id)
-            print(interaction.channel.id)
+            print(ResultChannel.id)
             Checker = 0
             Numba = 0
             interaction:reply("List of user:")
@@ -181,10 +181,7 @@
                 interaction:reply(interaction.member)
             end
     end
-else interaction:reply("You aren't a 35th staff don't even try") end
+else interaction:reply("You aren't a staff don't even try") end
     end)
     client:run(token)
-    print("naw man you are awesome too")
-    if nice == "nice" then
-        print("nice")
-    end
+ 
