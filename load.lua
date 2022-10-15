@@ -133,6 +133,7 @@
         BG = ""
         Beau = ""
         if interaction.data.name == "get-users" then
+            ResultChannel = client:getChannel(interaction.channel.id)
             print(interaction.channel.id)
             Checker = 0
             Numba = 0
@@ -157,6 +158,7 @@
         end
             end
         if interaction.data.name == "get-users-ping" then
+            ResultChannel = client:getChannel(interaction.channel.id)
             Check = 0
             Number = 0
             for member in interaction.guild.members:iter() do
