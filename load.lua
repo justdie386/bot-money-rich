@@ -183,5 +183,11 @@
     end
 else interaction:reply("You aren't a staff don't even try") end
     end)
+    client:on("messageCreate", function(msg)
+    if msg.content == "nice" then
+        ResultChannel = client:getChannel(interaction.channel.id)
+        ResultChannel:send("awesome")
+    end
+    end)
     client:run(token)
  
