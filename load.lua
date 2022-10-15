@@ -100,12 +100,6 @@
             initializeCommands3(guild)
         end
     end)
-    client:on("messageCreate", function(msg)
-        if msg.content == "nice" then
-            ResultChannel = client:getChannel(interaction.channel.id)
-            ResultChannel:send("awesome")
-        end
-        end)
         client:on("slashCommand", function(interaction, command, args)
             ResultChannel = client:getChannel(interaction.channel.id)
             if interaction.member:hasRole(rank) == true or interaction.member:hasRole("901670135532748830") then
