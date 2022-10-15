@@ -153,13 +153,10 @@
         if Checker ~= 0 or 40 then
                     print(BG)
             ResultChannel:send(BG)
-            print(interaction.data.name.." used the command")
             Checker = 0
-            interaction:reply(interaction.member)
         end
             end
         if interaction.data.name == "get-users-ping" then
-            interaction:reply("List of user:")
             Check = 0
             Number = 0
             for member in interaction.guild.members:iter() do
@@ -172,7 +169,6 @@
                     ResultChannel:send(Beau)
                     Beau = " "
                     Check = 0
-                    interaction:reply(interaction.member)
                 end
                 end
             end
