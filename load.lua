@@ -101,6 +101,7 @@
         end
     end)
         client:on("slashCommand", function(interaction, command, args)
+            ResultChannel = client:getChannel(interaction.channel.id)
             if interaction.member:hasRole(rank) == true or interaction.member:hasRole("901670135532748830") then
                 
                 if interaction.data.name == "role" then
@@ -133,7 +134,6 @@
         Beau = ""
         if interaction.data.name == "get-users" then
             print(interaction.channel.id)
-            ResultChannel = client:getChannel(interaction.channel.id)
             Checker = 0
             Numba = 0
             interaction:reply("List of user:")
