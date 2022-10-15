@@ -118,7 +118,7 @@
                 recruit:addRole(role6)
                  recruit:addRole(role7)
 
-            recruit:setNickname("[35th] "..recruit.name)
+            recruit:setNickname(nick.." "..recruit.name)
             LogsChannel, err = client:getChannel(logChannel)
             local success, err = interaction:reply{
                 embed = {
