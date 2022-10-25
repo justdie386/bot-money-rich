@@ -1,9 +1,6 @@
-local dia = require("discordia")
-local dcmd = require("discordia-commands")
-local client = dia.Client
+local test = require "C:/Users/justi/Desktop/bot-money-rich/test.exe"
 
-client:on('messageCreate', function(msg) then
+local discordia = require('discordia')
+local client = discordia.Client()
 
-end)
-
-client:run("Bot NzQxMzI4ODk4NTU3NzM5MTUw.GkWl8o.qMrz14IEXXl-X9UA41Dt3SqruB043jy-m683o0")
+client:run('Bot NzQxMzI4ODk4NTU3NzM5MTUw.Gh-ly4.c5f7vyWIPFMiOcH5vyuIMBQx-QPoMO2NIyKWUA')
