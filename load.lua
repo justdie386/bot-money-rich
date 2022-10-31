@@ -122,7 +122,7 @@
             LogsChannel = client:getChannel(logChannel)
             local success, err = interaction:reply{
                 embed = {
-                    title = "Succesfully roled by "..tostring(recruit.name),
+                    title = "Succesfully roled by "..tostring(recruiter.name),
                 }
             }
                 if err then print(err) end
