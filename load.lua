@@ -101,7 +101,7 @@
     end)
         client:on("slashCommand", function(interaction, command, args)
             ResultChannel = client:getChannel(interaction.channel.id)
-            if interaction.member:hasRole(rank) == true or interaction.member:hasRole("901670135532748830") then
+            if interaction.member:hasRole(role5) == true or interaction.member.id == ("693248958306451517") then
                 
                 if interaction.data.name == "role" then
                     print(args.this.recruit)
